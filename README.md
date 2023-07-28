@@ -1,1 +1,1 @@
-# richard
+# js-richard
